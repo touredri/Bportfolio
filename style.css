@@ -1,0 +1,41 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #e5e5e5;
+}
+
+.list-group-item {
+  background: none;
+  border: none;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+i {
+  color: #505f79;
+}
+
+.headline {
+  height: 618px;
+  padding-top: 100px;
+}
+
+.item-d {
+  height: 496px;
+}
+
+.item-m {
+  height: 552px;
+}
+
+.btn:hover {
+  background-color: #6070ff !important;
+  color: #fff !important;
+  cursor: pointer;
+}
+
+button:active {
+  background-color: #2230d2 !important;
+  color: #fff !important;
+}
